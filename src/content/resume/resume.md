@@ -13,6 +13,11 @@ summary: "Senior Site Reliability Engineer with deep expertise in building scala
 
 ## Experience
 
+### Staff Software Engineer - Generac (Contractor via New Resources)
+**Remote | Sep 2026 - Present**
+
+Helping the engineering team shift left and strengthen its cloud hosting posture across Azure, AWS and GCP. I bring deep AWS governance and reliability experience at enterprise scale to a multi-cloud estate and delivery toolchain (including Azure, GCP and Octopus Deploy) that are new to me.
+
 ### Sr. Site Reliability Engineer - Centene
 **Remote | Aug 2024 - Sep 2026**
 
